@@ -1,0 +1,25 @@
+
+.homepage {
+    text-align:center;
+}
+* {
+    background-color: blanchedalmond;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#lasagn{
+    color: blue;
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#bg {
+    background-color: rgb(230, 174, 23);
+}
+
+#fontlarger {
+    font-size: 24px;
+}
