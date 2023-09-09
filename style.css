@@ -22,4 +22,20 @@
 
 #fontlarger {
     font-size: 24px;
+    border-bottom: black;
+    border-style: outset;
+    margin-top: 28px;
+    margin-left: 28px;
+    margin-right: 28px;
+    text-align: center;
 }
+
+.title{
+    padding: 28px;
+    margin: 20px;
+    border:lawngreen;
+    border-color: red;
+}
+
+
+
